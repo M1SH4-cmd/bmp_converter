@@ -1,4 +1,0 @@
-# ninja log v6
-1	819	7708171166036117	CMakeFiles/bmp_converter.dir/main.cpp.obj	2970225c568ea58a
-5	826	7708171166066109	CMakeFiles/bmp_converter.dir/bmp_processor.cpp.obj	f1aea3613ac90f5b
-826	1064	7708171174280463	bmp_converter.exe	da2cd3c095fc4d3b

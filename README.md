@@ -29,9 +29,10 @@ Original image:
 
 Image with X:
 #...#
-.#.#.
-..#..
-#...# 
+.###.
+.###.
+.###.
+#...#
 
 >> Enter output BMP file name: output.bmp
 ```
